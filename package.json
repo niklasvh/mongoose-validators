@@ -1,8 +1,8 @@
 {
   "name": "mongoose-validators",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Validators for Mongoose schemas with validator.js",
-  "main": "lib/validator.js",
+  "main": "lib/validators.js",
   "scripts": {
     "test": "mocha"
   },
