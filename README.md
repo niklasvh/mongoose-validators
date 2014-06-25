@@ -2,6 +2,8 @@ mongoose-validators
 ===================
 
 [![Build Status](https://travis-ci.org/niklasvh/mongoose-validators.png)](https://travis-ci.org/niklasvh/mongoose-validators)
+[![NPM Downloads](https://img.shields.io/npm/dm/mongoose-validators.svg)](https://www.npmjs.org/package/mongoose-validators)
+[![NPM Version](https://img.shields.io/npm/v/mongoose-validators.svg)](https://www.npmjs.org/package/mongoose-validators)
 
 [validator.js](https://github.com/chriso/validator.js) for [Mongoose](http://mongoosejs.com/) schemas.
 
